@@ -16,6 +16,12 @@
 
 /* Material Design Lite */
 
+// Custom color palette for Oakland University
+
+$color-primary: #877148 !default; // Gold
+$color-primary-dark: #58461f !default;
+$color-accent: #0074b7 !default; // Blue
+
 // Variables and mixins
 @import "variables";
 @import "mixins";
